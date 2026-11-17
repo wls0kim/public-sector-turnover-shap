@@ -12,7 +12,7 @@
 - 2023 공직생활실태조사(한국행정연구원) 중 1980년 이후 출생 공무원
 - 예측변수 55개(척도 평균과 인구통계), 결과변수는 이직의도(있음/없음)
 - 원자료는 비공개
-- 분석 자료 `data_cleaned.csv`는 [grad-coursework](https://github.com/wls0kim/grad-coursework)의 `2024-2_turnover-logistic-ml/01_logistic_regression.Rmd`에서 생성
+- 분석 자료 `data_cleaned.csv`는 [ml-practice](https://github.com/wls0kim/ml-practice)의 `2024-2_turnover-logistic-ml/01_logistic_regression.Rmd`에서 생성
 
 ## 분석 절차
 
