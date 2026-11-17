@@ -1,0 +1,28 @@
+# 원자료와 산출물은 올리지 않음
+*.csv
+*.csv.gz
+*.xlsx
+*.xls
+*.sav
+*.pkl
+*.RData
+*.rds
+*.zip
+*.hwp
+*.hwpx
+*.docx
+*.pptx
+*.pdf
+*.html
+data/
+in/
+out/
+out25/
+output/
+
+# 시스템, 편집기 파일
+.DS_Store
+.Rhistory
+.Rproj.user/
+.ipynb_checkpoints/
+__pycache__/
